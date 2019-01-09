@@ -1,0 +1,3 @@
+英文API：https://lightgbm.readthedocs.io/en/latest/Python-API.html
+
+中文文档：http://lightgbm.apachecn.org/#/docs/8
